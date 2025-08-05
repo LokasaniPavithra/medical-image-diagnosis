@@ -1,7 +1,8 @@
-streamlit 
-agno 
-duckduckgo_search 
-Pillow 
+streamlit
+agno
+duckduckgo_search
+Pillow
 python-dotenv
 google-generativeai
 markdown2
+
