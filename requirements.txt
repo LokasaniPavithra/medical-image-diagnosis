@@ -1,0 +1,7 @@
+streamlit 
+agno 
+duckduckgo_search 
+Pillow 
+python-dotenv
+google-generativeai
+markdown2

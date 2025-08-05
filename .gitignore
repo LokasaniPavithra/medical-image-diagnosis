@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+.env/
+
+# Streamlit secrets (used only for Streamlit Cloud)
+.streamlit/secrets.toml
+
+# OS & IDE files
+.DS_Store
+.vscode/
