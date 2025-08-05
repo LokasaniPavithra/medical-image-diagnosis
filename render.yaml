@@ -1,9 +1,7 @@
 services:
   - type: web
-    name: my-streamlit-app
-    runtime: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: streamlit run app.py --server.port $PORT
-    envVars:
-      - key: GOOGLE_API_KEY
-        sync: false  # you will set this from Render dashboard
+    name: medical-diagnosis
+    env: python
+    buildCommand: ""
+    startCommand: ./install.sh
+    plan: free
