@@ -2,6 +2,6 @@ services:
   - type: web
     name: medical-diagnosis
     env: python
-    buildCommand: ""
-    startCommand: ./install.sh
+    buildCommand: "./install.sh"
+    startCommand: "streamlit run app.py"
     plan: free
