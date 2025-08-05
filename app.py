@@ -118,7 +118,7 @@ language = st.selectbox("🌐 Translate Report To", [
 
 
 
-# Fix for uploaded file name visibility in both modes
+
 st.markdown("""
 <style>
 /* Make uploaded file preview text highly visible */
@@ -174,7 +174,7 @@ Then translate the entire report into the following language:
 """
 
 
-# Universal styling for light & dark modes
+
 st.markdown("""
 <style>
 /* Analyze Button Styling */
