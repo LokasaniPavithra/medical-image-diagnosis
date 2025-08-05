@@ -3,6 +3,6 @@ agno
 duckduckgo_search
 Pillow
 python-dotenv
-google-generativeai
+google-genai
 markdown2
 
